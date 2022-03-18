@@ -12,12 +12,12 @@ int ledPin = 13;      // select the pin for the LED
 int sensorValue = 0;  // variable to store the value coming from the sensor
 float vout;
 
-char ssid[] = "realme 6";   // your network SSID (name) 
-char pass[] = "gautham212001";   // your network password
+char ssid[] = "*****";   // your network SSID (name) 
+char pass[] = "***********";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber =  1581561;
+unsigned long myChannelNumber =  *******;
 const char * myWriteAPIKey = "4WKAUDUJOMH7VFHK";
 
 int number = 0;
